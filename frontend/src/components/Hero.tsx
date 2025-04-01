@@ -29,9 +29,9 @@ const Hero: React.FC = () => {
                 </div>
                 <Image
                     src={heroDetails.centerImageSrc}
-                    width={384}
-                    height={340}
-                    quality={100}
+                    width={484}
+                    height={440}
+                    quality={500}
                     sizes="(max-width: 768px) 100vw, 384px"
                     priority={true}
                     unoptimized={true}
