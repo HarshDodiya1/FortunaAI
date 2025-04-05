@@ -43,6 +43,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+      <script src="https://files.bpcontent.cloud/2025/04/05/18/20250405182537-GCB8SZHC.js"></script>
       <body
         className={`${manrope.className} ${sourceSans.className} antialiased`}
       >
